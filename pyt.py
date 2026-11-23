@@ -13,3 +13,4 @@ def triABulles(tableau,tailletableau):
     return tableau
 a = [[1, 8, 5], [2, 4, 9], [3, 8, 1], [4, 2, 7]]
 print(triABulles(a,4))
+
